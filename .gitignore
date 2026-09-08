@@ -1,0 +1,13 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.tmp
+*~
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# keep exported research assets; nothing build-related to ignore
